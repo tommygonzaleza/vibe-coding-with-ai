@@ -1,0 +1,153 @@
+{
+  "info": {
+    "slug": "vibe-coding-fundamentals",
+    "name": "Evaluación de Fundamentos de Vibe Coding",
+    "difficulty": "INTERMEDIATE",
+    "technologies": ["generative-ai", "artificial-inteligence", "prompt-engineering"],
+    "main": "Pon a prueba tus conocimientos sobre los conceptos, principios y prácticas fundamentales de Vibe Coding con IA, incluyendo su manifiesto y los roles de los Vibe Coders e Ingenieros AI-First.",
+    "results": "¡Felicidades! Has demostrado una sólida comprensión de los fundamentos de Vibe Coding y su aplicación en el desarrollo de software moderno.",
+    "badges": [
+      {
+        "slug": "vibe_coder_initiate",
+        "points": 15
+      }
+    ]
+  },
+  "questions": [
+    {
+      "q": "¿Quién introdujo el término 'vibe coding'?",
+      "a": [
+        { "option": "Simon Willison", "correct": false },
+        { "option": "Alejandro Sanchez", "correct": false },
+        { "option": "Andrej Karpathy", "correct": true },
+        { "option": "Un colaborador de Forbes", "correct": false }
+      ]
+    },
+    {
+      "q": "Según la 'Introducción a Vibe Coding', ¿cuál es el enfoque principal de un vibe coder?",
+      "a": [
+        { "option": "Escribir cada línea de código meticulosamente.", "correct": false },
+        { "option": "El 'qué'—el propósito, la visión y el potencial del proyecto.", "correct": true },
+        { "option": "Depurar algoritmos complejos manualmente.", "correct": false },
+        { "option": "Dominar lenguajes de programación específicos.", "correct": false }
+      ]
+    },
+    {
+      "q": "¿Cuál de los siguientes NO es un valor fundamental en el Manifiesto de Vibe Coding?",
+      "a": [
+        { "option": "Fluidez sobre fricción", "correct": false },
+        { "option": "Iteración sobre perfección", "correct": false },
+        { "option": "Artesanía del código sobre pensamiento de producto", "correct": true },
+        { "option": "Aumentación sobre automatización", "correct": false }
+      ]
+    },
+    {
+      "q": "¿Qué implica 'Reintentar sobre depurar' en el Manifiesto de Vibe Coding?",
+      "a": [
+        { "option": "Ignorar todos los errores en el código.", "correct": false },
+        { "option": "Pasar tiempo extenso en depuración manual.", "correct": false },
+        { "option": "Si corregir un error toma demasiado tiempo, a menudo es mejor regenerar el código con IA.", "correct": true },
+        { "option": "La depuración siempre debe ser realizada por la IA.", "correct": false }
+      ]
+    },
+    {
+      "q": "¿Cuál es una característica clave de un 'Vibe Coder' según se describe en 'Vibe Coding vs Desarrolladores de Software'?",
+      "a": [
+        { "option": "Enfoque profundo en la optimización algorítmica.", "correct": false },
+        { "option": "Dominio de sistemas backend complejos.", "correct": false },
+        { "option": "El objetivo principal es crear rápidamente experiencias de usuario y prototipos atractivos.", "correct": true },
+        { "option": "Énfasis en escribir todo el código manualmente para el control de calidad.", "correct": false }
+      ]
+    },
+    {
+      "q": "¿Cuál es el objetivo principal de un 'Ingeniero de Software AI-First'?",
+      "a": [
+        { "option": "Prototipar rápidamente interfaces de usuario.", "correct": false },
+        { "option": "Construir software robusto, escalable y eficiente integrando IA en todo el proceso de desarrollo.", "correct": true },
+        { "option": "Centrarse principalmente en la 'vibra' visual de un producto.", "correct": false },
+        { "option": "Evitar el uso de herramientas de IA para mantener la calidad del código.", "correct": false }
+      ]
+    },
+    {
+      "q": "Según 'Bienvenido al Vibe Coding Impulsado por IA', ¿qué porcentaje de código genera ahora el autor (Alejandro Sanchez) usando IA?",
+      "a": [
+        { "option": "10%", "correct": false },
+        { "option": "50%", "correct": false },
+        { "option": "90%", "correct": true },
+        { "option": "25%", "correct": false }
+      ]
+    },
+    {
+      "q": "¿Cuál es uno de los 'Superpoderes del Vibe Coder' listados en 'Vibe Coding vs Desarrolladores de Software'?",
+      "a": [
+        { "option": "Conocimiento profundo de MLOps.", "correct": false },
+        { "option": "Diseño de sistemas inteligentes con IA.", "correct": false },
+        { "option": "Prototipado Rápido.", "correct": true },
+        { "option": "Guardián de la Seguridad de IA.", "correct": false }
+      ]
+    },
+    {
+      "q": "¿Qué principio de Vibe Coding establece: 'Si no funciona, reintenta. No te apegues.'?",
+      "a": [
+        { "option": "El gusto es el filtro definitivo.", "correct": false },
+        { "option": "El código es desechable.", "correct": true },
+        { "option": "La simplicidad escala.", "correct": false },
+        { "option": "Enfócate en el problema, no en el código.", "correct": false }
+      ]
+    },
+    {
+      "q": "¿Cuál es una diferencia clave en cómo los Vibe Coders y los Ingenieros de Software AI-First manejan la complejidad?",
+      "a": [
+        { "option": "Los Vibe Coders evitan la complejidad, los Ingenieros AI-First la abrazan manualmente.", "correct": false },
+        { "option": "Los Vibe Coders usan IA para simplificar u ocultar la complejidad para la experiencia del usuario; los Ingenieros AI-First usan IA para gestionar y optimizar sistemas complejos.", "correct": true },
+        { "option": "Ambos roles buscan eliminar la complejidad por completo.", "correct": false },
+        { "option": "Solo los Ingenieros AI-First manejan sistemas complejos.", "correct": false }
+      ]
+    },
+    {
+      "q": "La 'Introducción a Vibe Coding' menciona que el vibe coding implica 'ver cosas, decir cosas, ejecutar cosas y copiar-pegar cosas', confiando en la IA para resolver errores. ¿Para quién se describe este proceso como particularmente motivador?",
+      "a": [
+        { "option": "Arquitectos Senior", "correct": false },
+        { "option": "Gerentes de Proyecto", "correct": false },
+        { "option": "Desarrolladores Junior", "correct": true },
+        { "option": "Testers de QA", "correct": false }
+      ]
+    },
+    {
+      "q": "Uno de los principios de Vibe Coding es 'Aumentación sobre automatización'. ¿Qué significa esto principalmente?",
+      "a": [
+        { "option": "La IA debería automatizar completamente todas las tareas de desarrollo.", "correct": false },
+        { "option": "La IA es un colaborador que mejora las capacidades humanas, no un reemplazo completo para los desarrolladores humanos.", "correct": true },
+        { "option": "Los humanos deberían automatizar las tareas de IA.", "correct": false },
+        { "option": "La automatización no es valiosa en el desarrollo de software.", "correct": false }
+      ]
+    },
+    {
+      "q": "Según el Manifiesto de Vibe Coding, ¿qué se valora más: 'Pensamiento de producto' o 'Artesanía del código'?",
+      "a": [
+        { "option": "Artesanía del código", "correct": false },
+        { "option": "Pensamiento de producto", "correct": true },
+        { "option": "Se valoran por igual", "correct": false },
+        { "option": "Ninguno se menciona explícitamente", "correct": false }
+      ]
+    },
+    {
+      "q": "¿Cuál es un beneficio clave de 'Iterar Públicamente con IA' como se menciona en el esquema del curso dentro de 'Introducción a Vibe Coding'?",
+      "a": [
+        { "option": "Mantener tu proyecto en secreto hasta la perfección.", "correct": false },
+        { "option": "Construir confianza y visibilidad a medida que progresas.", "correct": true },
+        { "option": "Reducir la necesidad de retroalimentación del usuario.", "correct": false },
+        { "option": "Centrarse únicamente en el desarrollo backend.", "correct": false }
+      ]
+    },
+    {
+      "q": "¿Qué afirmación refleja mejor la visión del Manifiesto de Vibe Coding sobre la 'perfección'?",
+      "a": [
+        { "option": "La perfección es el objetivo final antes de cualquier lanzamiento.", "correct": false },
+        { "option": "La perfección es obsoleta si siempre puedes reintentar e iterar.", "correct": true },
+        { "option": "Las herramientas de IA garantizan la perfección en el primer intento.", "correct": false },
+        { "option": "Esforzarse por la perfección en la sintaxis del código es primordial.", "correct": false }
+      ]
+    }
+  ]
+} 
