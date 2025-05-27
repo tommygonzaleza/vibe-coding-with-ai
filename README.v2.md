@@ -13,15 +13,15 @@ This syllabus outlines the modules and lessons for the Vibe Coding with AI cours
 
 
 2.  **Vibe coding tools and best practices**
-    *   [Vibe Coding Best practices](content/lessons/vibe-coding-best-practices.md)
-    *   [Vibe Coding Tools](content/lessons/vibe-coding-tools.md)
-    *   [What is Cursor?](content/lessons/what-is-cursor.md)
-    *   [What is Windsurf?](content/lessons/what-is-windsurf.md)
-    *   [Windsurf vs Cursor](content/lessons/windsurf-vs-cursor-comparison.md)
-    *   [Cursor Rules Examples](content/cursor-rules.md)
-    *   [Writing rules for orchestrator files (Cursor Rules)](content/lessons/writing-rules-for-orchestrator-files.md)
-    *   [AI Memory Bank](content/lessons/ai-memory-bank.md)
-    *   [Model Context Protocol (MCP)](content/lessons/model-context-protocol-mcp.md)
+    *  ✅ [Vibe Coding Best practices](content/lessons/vibe-coding-best-practices.md)
+    * ✅  [Vibe Coding Tools](content/lessons/vibe-coding-tools.md)
+    * ⬆️ [What is Cursor?](content/lessons/what-is-cursor.md)
+    * ⬆️ [What is Windsurf?](content/lessons/what-is-windsurf.md)
+    * ⬆️ [Windsurf vs Cursor](content/lessons/windsurf-vs-cursor-comparison.md)
+    * ⬆️ [Cursor Rules Examples](content/cursor-rules.md)
+    * ⬆️ [Writing rules for orchestrator files (Cursor Rules)](content/lessons/writing-rules-for-orchestrator-files.md)
+    * ⬆️ [AI Memory Bank](content/lessons/ai-memory-bank.md)
+    * ⬆️ [Model Context Protocol (MCP)](content/lessons/model-context-protocol-mcp.md)
     *   Project [Cursor Initial Configuration](content/projects/cursor-configuration/)
     *   Project [Create rules for Vibe Culture](content/projects/your-first-context-rules/README.md)
 
