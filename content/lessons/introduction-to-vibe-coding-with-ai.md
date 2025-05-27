@@ -4,9 +4,6 @@ tags:
   - vibe-coding
   - ai-development
   - software-engineering
-  - career-development
-  - python
-  - javascript
 description: >-
   Ready to jump into Vibe Coding? This guide breaks down how to use AI as your coding co-pilot, making software development fun, fast, and seriously powerful. Let's get those good vibes flowing!
 seo_keyword: "Vibe Coding"
