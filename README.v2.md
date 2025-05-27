@@ -5,11 +5,11 @@ This syllabus outlines the modules and lessons for the Vibe Coding with AI cours
 ## Table of Contents (Based on README.md)
 
 1.  **The Foundations of Vibe Coding with AI**
-    *   [Introduction to Vibe Coding with AI](content/lessons/introduction-to-vibe-coding-with-ai.md)
-    *   [Welcome to the AI-Driven Vibe Coding](content/lessons/welcome-to-the-ai-diven-vibe-coding.md)
-    *   [What is a Vibe Coder?](content/lessons/vibe-coding-vs-software-developers.md)
-    *   [Vibe Coding Manifesto](content/articles/vibe-coding-manifesto.md)
-    *   [Quiz about vibe coder responsibilities](content/assessments/about-vibe-coding.json)
+    *  ✅ [Introduction to Vibe Coding with AI](content/lessons/introduction-to-vibe-coding-with-ai.md)
+    *  ✅ [Welcome to the AI-Driven Vibe Coding](content/lessons/welcome-to-the-ai-diven-vibe-coding.md)
+    *  ✅ [What is a Vibe Coder?](content/lessons/vibe-coding-vs-software-developers.md)
+    *  ✅ [Vibe Coding Manifesto](content/articles/vibe-coding-manifesto.md)
+    *  ✅ [Quiz about vibe coder responsibilities](content/assessments/about-vibe-coding.json)
 
 
 2.  **Vibe coding tools and best practices**
