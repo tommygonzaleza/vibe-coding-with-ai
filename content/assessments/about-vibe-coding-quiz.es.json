@@ -3,7 +3,7 @@
     "slug": "vibe-coding-fundamentals",
     "name": "Evaluación de Fundamentos de Vibe Coding",
     "difficulty": "INTERMEDIATE",
-    "technologies": ["generative-ai", "artificial-inteligence", "prompt-engineering"],
+    "technologies": ["vibe-coding","ai-generativa", "inteligencia-artificial", "ingenieria-de-prompts"],
     "main": "Pon a prueba tus conocimientos sobre los conceptos, principios y prácticas fundamentales de Vibe Coding con IA, incluyendo su manifiesto y los roles de los Vibe Coders e Ingenieros AI-First.",
     "results": "¡Felicidades! Has demostrado una sólida comprensión de los fundamentos de Vibe Coding y su aplicación en el desarrollo de software moderno.",
     "badges": [
