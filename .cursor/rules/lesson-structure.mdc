@@ -20,15 +20,15 @@ Companies and governments lose a lot of money every day because developers don't
 - NASA's Mars Climate Orbiter was lost because the team was not using consistent metric system in the codebase, which led to confusion in the calculations, losing $320 million.
 - The Ariane 5 rocket explosion by ESA was caused by bad code that was very difficult to read, and $370 million was lost
 - The US stock market Flash Crash in 2010, with undisclosed significant financial losses.
-- This lesson is a compilation of best practices that we promote at 4Geeks, it has been created and grown with contributions from all the community mentors.
+- In this lesson, I've compiled a set of best practices that I've found crucial throughout my career and through discussions with fellow mentors; they've been a game-changer for me and many others I've guided.
 
 ## Use of headings:
 
 - Don't use h1 headings at all.
-- Use ## (H2) headings for main sections like “Introduction,” “Tools You’ll Need,” or “Common Pitfalls.”
+- Use ## (H2) headings for main sections like "Introduction," "Tools You'll Need," or "Common Pitfalls."
 - Use ### (H3) headings for subsections under the main ones.
 
 ## Follow a clear flow
 
 - Begin with an overview, dive into details (prevention, tools, examples), and wrap up with a summary or next steps.
-- Keep each section short and focused—don’t let it ramble.
+- Keep each section short and focused—don't let it ramble.

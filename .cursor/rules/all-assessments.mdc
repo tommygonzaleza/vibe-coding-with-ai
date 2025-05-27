@@ -1,0 +1,181 @@
+---
+description: 
+globs: content/assessment/*.json
+alwaysApply: false
+---
+# Assessment Creation Guidelines
+
+This rule provides comprehensive guidelines for creating assessment JSON files for any topic or purpose, following the established structure and best practices.
+
+## Assessment JSON Structure
+
+All assessments must follow this exact JSON structure:
+
+```json
+{
+  "info": {
+    "slug": "topic-name-kebab-case",
+    "name": "Human Readable and SEO friendly assessment title",
+    "difficulty": "BEGINNER|EASY|INTERMEDIATE|HARD",
+    "technologies": ["technology1", "technology2"],
+    "main": "Brief SEO-friendly description of what the assessment tests",
+    "results": "Congratulations message explaining what the user has achieved",
+    "badges": []
+  },
+  "questions": [
+    // Question objects array
+  ]
+}
+```
+
+## Info Section Guidelines
+
+### slug
+- Use kebab-case format (lowercase with hyphens)
+- Should reflect the main topic/technology
+- Keep concise and descriptive
+- Examples: `javascript-fundamentals`, `react-hooks`, `cybersecurity-basics`
+
+### name
+- Human-readable title in Title Case
+- Should be clear and professional
+- Should be no longar than 150 characters and SEO friendly.
+- Match the slug content but in readable format
+- Examples: "JavaScript Fundamentals", "React Hooks", "Cybersecurity Basics"
+
+### difficulty
+- Must be one of: `BEGINNER`, `EASY`, `INTERMEDIATE`, `HARD`
+- BEGINNER: For people that didnt know anything before this quiz.
+- EASY: Basic concepts, definitions, simple scenarios
+- INTERMEDIATE: Practical application, moderate complexity
+- HARD: Complex scenarios, deep understanding, expert-level
+
+### technologies
+- Based on [all-technologies.mdc](mdc:.cursor/rules/all-technologies.mdc) choose technologies only present in that document.
+- Use lowercase
+- Include main technology and related ones
+- Examples: `["javascript", "programming"]`, `["react", "frontend", "javascript"]`
+
+### main
+- Similar to the SEO descritions on any resource around the internet.
+- One-sentence description starting with "Test your knowledge of..."
+- Should clearly state what aspects will be assessed
+- Keep under 240 characters
+- Focus on learning outcomes
+
+### results
+- Congratulations message starting with "Congratulations!"
+- Should mention what the user has accomplished
+- Keep encouraging and specific to the topic
+- Examples: "Congratulations! You now have a solid understanding of JavaScript fundamentals and can build basic applications."
+
+### badges
+- Include 1-2 relevant badges
+- Use snake_case for slug
+- Points should be 10-20 based on difficulty and scope
+- Badge slug should relate to the topic
+
+## Question Structure
+
+Each question must follow this format:
+
+```json
+{
+  "q": "Question text ending with question mark?",
+  "a": [
+    { "option": "Answer option text", "correct": true },
+    { "option": "Answer option text", "correct": false },
+    { "option": "Answer option text", "correct": false }
+  ]
+}
+```
+
+## Question Guidelines
+
+### Question Text (q)
+- Clear, concise, and specific
+- Must end with a question mark
+- Avoid ambiguous language
+- Test understanding, not memorization
+- Use practical scenarios when possible
+
+### Answer Options (a)
+- Provide 3-4 options per question
+- Only one correct answer unless it's a multiple-select question
+- Make incorrect options plausible but clearly wrong
+- Avoid "all of the above" or "none of the above" unless necessary
+- Keep options similar in length and complexity
+
+### Multiple Correct Answers
+- For questions with multiple correct answers, mark multiple options as `"correct": true`
+- Ensure the question clearly indicates multiple answers are expected
+- Example: "Which of the following are valid JavaScript data types? (Select all that apply)"
+
+## Content Quality Standards
+
+### Question Types to Include
+1. **Definition questions**: Test understanding of key concepts
+2. **Practical scenarios**: Real-world application questions
+3. **Best practices**: Industry standards and recommendations
+4. **Problem-solving**: Analytical thinking questions
+5. **True/False**: Simple concept verification (use sparingly)
+
+### Question Distribution
+- 60% practical application and scenarios
+- 25% conceptual understanding
+- 15% best practices and standards
+
+### Difficulty Progression
+- Start with easier questions to build confidence
+- Gradually increase complexity
+- End with challenging but fair questions
+- Maintain consistent difficulty level within the chosen category
+
+## Assessment Length Guidelines
+
+- **BEGINNER**: 8-12 questions
+- **INTERMEDIATE**: 10-15 questions
+- **ADVANCED**: 12-20 questions
+
+## Language and Tone
+
+- Use clear, professional language
+- Avoid jargon unless it's part of the learning objective
+- Write in active voice
+- Be inclusive and accessible
+- Maintain consistency in terminology
+
+## Validation Checklist
+
+Before finalizing an assessment, verify:
+
+- [ ] JSON is valid and properly formatted
+- [ ] All required fields are present
+- [ ] Slug follows kebab-case convention
+- [ ] Difficulty matches question complexity
+- [ ] Technologies array includes relevant tags
+- [ ] At least one correct answer per question
+- [ ] Question count appropriate for difficulty level
+- [ ] No spelling or grammar errors
+- [ ] Questions test understanding, not just memory
+- [ ] Practical scenarios are realistic and relevant
+
+## Example Topics and Structures
+
+### Technology Assessment
+Focus on practical application, syntax, best practices, and real-world scenarios.
+
+### Methodology/Framework Assessment
+Test understanding of processes, steps, implementation, and decision-making.
+
+### Conceptual Assessment
+Evaluate theoretical understanding, principles, and foundational knowledge.
+
+## Common Pitfalls to Avoid
+
+1. **Overly specific questions**: Avoid testing memorization of exact syntax
+2. **Ambiguous wording**: Ensure questions have only one clear interpretation
+3. **Trick questions**: Focus on understanding, not catching mistakes
+4. **Outdated information**: Ensure all content reflects current best practices
+5. **Cultural bias**: Use examples and scenarios that are universally applicable
+6. **Inconsistent difficulty**: Maintain appropriate level throughout assessment

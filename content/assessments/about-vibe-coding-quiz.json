@@ -1,0 +1,153 @@
+{
+  "info": {
+    "slug": "vibe-coding-fundamentals",
+    "name": "Vibe Coding Fundamentals Assessment",
+    "difficulty": "INTERMEDIATE",
+    "technologies": ["generative-ai", "artificial-inteligence", "prompt-engineering"],
+    "main": "Test your knowledge of the core concepts, principles, and practices of Vibe Coding with AI, including its manifesto and the roles of Vibe Coders and AI-First Engineers.",
+    "results": "Congratulations! You have demonstrated a solid understanding of Vibe Coding fundamentals and its application in modern software development.",
+    "badges": [
+      {
+        "slug": "vibe_coder_initiate",
+        "points": 15
+      }
+    ]
+  },
+  "questions": [
+    {
+      "q": "Who introduced the term 'vibe coding'?",
+      "a": [
+        { "option": "Simon Willison", "correct": false },
+        { "option": "Alejandro Sanchez", "correct": false },
+        { "option": "Andrej Karpathy", "correct": true },
+        { "option": "A Forbes Contributor", "correct": false }
+      ]
+    },
+    {
+      "q": "According to the 'Introduction to Vibe Coding', what is the primary focus of a vibe coder?",
+      "a": [
+        { "option": "Writing every line of code meticulously.", "correct": false },
+        { "option": "The 'what'—the purpose, vision, and potential of the project.", "correct": true },
+        { "option": "Debugging complex algorithms manually.", "correct": false },
+        { "option": "Mastering specific programming languages.", "correct": false }
+      ]
+    },
+    {
+      "q": "Which of the following is NOT a core value in the Vibe Coding Manifesto?",
+      "a": [
+        { "option": "Flow over friction", "correct": false },
+        { "option": "Iteration over perfection", "correct": false },
+        { "option": "Code crafting over product thinking", "correct": true },
+        { "option": "Augmentation over automation", "correct": false }
+      ]
+    },
+    {
+      "q": "What does 'Rerolling over debugging' imply in the Vibe Coding Manifesto?",
+      "a": [
+        { "option": "Ignoring all bugs in the code.", "correct": false },
+        { "option": "Spending extensive time on manual debugging.", "correct": false },
+        { "option": "If fixing a bug takes too long, it's often better to regenerate the code with AI.", "correct": true },
+        { "option": "Debugging should always be done by the AI.", "correct": false }
+      ]
+    },
+    {
+      "q": "What is a key characteristic of a 'Vibe Coder' as described in 'Vibe Coding vs Software Developers'?",
+      "a": [
+        { "option": "Deep focus on algorithmic optimization.", "correct": false },
+        { "option": "Mastery of complex backend systems.", "correct": false },
+        { "option": "Primary goal is to quickly create engaging user experiences and prototypes.", "correct": true },
+        { "option": "Emphasis on writing all code manually for quality control.", "correct": false }
+      ]
+    },
+    {
+      "q": "What is the main goal of an 'AI-First Software Engineer'?",
+      "a": [
+        { "option": "To rapidly prototype user interfaces.", "correct": false },
+        { "option": "To build strong, scalable, and efficient software by integrating AI throughout the development process.", "correct": true },
+        { "option": "To primarily focus on the visual 'vibe' of a product.", "correct": false },
+        { "option": "To avoid using AI tools to maintain code quality.", "correct": false }
+      ]
+    },
+    {
+      "q": "According to 'Welcome to the AI-Driven Vibe Coding', what percentage of code does the author (Alejandro Sanchez) now generate using AI?",
+      "a": [
+        { "option": "10%", "correct": false },
+        { "option": "50%", "correct": false },
+        { "option": "90%", "correct": true },
+        { "option": "25%", "correct": false }
+      ]
+    },
+    {
+      "q": "What is one of the 'Vibe Coder Superpowers' listed in 'Vibe Coding vs Software Developers'?",
+      "a": [
+        { "option": "Deep knowledge of MLOps.", "correct": false },
+        { "option": "Smart systems design with AI.", "correct": false },
+        { "option": "Rapid Prototyping.", "correct": true },
+        { "option": "Guardian of AI Security.", "correct": false }
+      ]
+    },
+    {
+      "q": "Which principle of Vibe Coding states: 'If it doesn't work, reroll. Don't get attached.'?",
+      "a": [
+        { "option": "Taste is the ultimate filter.", "correct": false },
+        { "option": "Code is disposable.", "correct": true },
+        { "option": "Simplicity scales.", "correct": false },
+        { "option": "Focus on the problem, not the code.", "correct": false }
+      ]
+    },
+    {
+      "q": "What is a key difference in how Vibe Coders and AI-First Software Engineers deal with complexity?",
+      "a": [
+        { "option": "Vibe Coders avoid complexity, AI-First Engineers embrace it manually.", "correct": false },
+        { "option": "Vibe Coders use AI to cut through or hide complexity for user experience; AI-First Engineers use AI to manage and optimize complex systems.", "correct": true },
+        { "option": "Both roles aim to eliminate complexity entirely.", "correct": false },
+        { "option": "Only AI-First Engineers deal with complex systems.", "correct": false }
+      ]
+    },
+    {
+      "q": "The 'Introduction to Vibe Coding' mentions that vibe coding involves 'seeing stuff, saying stuff, running stuff, and copy-pasting stuff', relying on AI to resolve errors. This process is described as particularly motivating for whom?",
+      "a": [
+        { "option": "Senior Architects", "correct": false },
+        { "option": "Project Managers", "correct": false },
+        { "option": "Junior Developers", "correct": true },
+        { "option": "QA Testers", "correct": false }
+      ]
+    },
+    {
+      "q": "One of the principles of Vibe Coding is 'Augmentation over automation'. What does this primarily mean?",
+      "a": [
+        { "option": "AI should completely automate all development tasks.", "correct": false },
+        { "option": "AI is a collaborator that enhances human capabilities, not a full replacement for human developers.", "correct": true },
+        { "option": "Humans should automate AI tasks.", "correct": false },
+        { "option": "Automation is not valuable in software development.", "correct": false }
+      ]
+    },
+    {
+      "q": "According to the Vibe Coding Manifesto, what is valued more: 'Product thinking' or 'Code crafting'?",
+      "a": [
+        { "option": "Code crafting", "correct": false },
+        { "option": "Product thinking", "correct": true },
+        { "option": "They are valued equally", "correct": false },
+        { "option": "Neither is explicitly mentioned", "correct": false }
+      ]
+    },
+    {
+      "q": "What is a key benefit of 'Iterating Publicly with AI' as mentioned in the course outline within 'Introduction to Vibe Coding'?",
+      "a": [
+        { "option": "Keeping your project secret until perfection.", "correct": false },
+        { "option": "Building confidence and visibility as you progress.", "correct": true },
+        { "option": "Reducing the need for user feedback.", "correct": false },
+        { "option": "Focusing solely on backend development.", "correct": false }
+      ]
+    },
+    {
+      "q": "Which statement best reflects the Vibe Coding Manifesto's view on 'perfection'?",
+      "a": [
+        { "option": "Perfection is the ultimate goal before any release.", "correct": false },
+        { "option": "Perfection is obsolete if you can always reroll and iterate.", "correct": true },
+        { "option": "AI tools guarantee perfection in the first attempt.", "correct": false },
+        { "option": "Striving for perfection in code syntax is paramount.", "correct": false }
+      ]
+    }
+  ]
+} 

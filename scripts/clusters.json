@@ -1460,7 +1460,7 @@
           {
             "id": 1889,
             "slug": "what-is-applied-ai",
-            "title": "What is applied AI",
+            "title": "What is Applied AI?",
             "lang": "us",
             "asset_type": "LESSON",
             "status": "PUBLISHED",
@@ -1472,12 +1472,28 @@
             },
             "technologies": [
               {
-                "slug": "generative-ai",
-                "title": "Generative AI",
+                "slug": "artificial-intelligence",
+                "title": "artificial intelligence",
                 "description": "",
-                "icon_url": "https://storage.googleapis.com/breathecode/logos-technologias/ai.png",
+                "icon_url": null,
                 "is_deprecated": false,
-                "visibility": "PUBLIC"
+                "visibility": "UNLISTED"
+              },
+              {
+                "slug": "applied-ai",
+                "title": "Applied AI",
+                "description": null,
+                "icon_url": null,
+                "is_deprecated": false,
+                "visibility": "UNLISTED"
+              },
+              {
+                "slug": "problem-solving",
+                "title": "Problem Solving",
+                "description": null,
+                "icon_url": null,
+                "is_deprecated": false,
+                "visibility": "UNLISTED"
               }
             ]
           }
@@ -2101,7 +2117,7 @@
           {
             "id": 1562,
             "slug": "artificial-intelligence-in-simple-terms",
-            "title": "Artificial Intelligence in Simple Terms",
+            "title": "\ud83e\udd16 Artificial Intelligence in Simple Terms",
             "lang": "us",
             "asset_type": "LESSON",
             "status": "PUBLISHED",
@@ -2113,20 +2129,28 @@
             },
             "technologies": [
               {
-                "slug": "artificial-inteligence",
-                "title": "Artificial Intelligence",
-                "description": "",
-                "icon_url": null,
-                "is_deprecated": false,
-                "visibility": "PUBLIC"
-              },
-              {
                 "slug": "generative-ai",
                 "title": "Generative AI",
                 "description": "",
                 "icon_url": "https://storage.googleapis.com/breathecode/logos-technologias/ai.png",
                 "is_deprecated": false,
                 "visibility": "PUBLIC"
+              },
+              {
+                "slug": "ai-models",
+                "title": "ai-models",
+                "description": null,
+                "icon_url": null,
+                "is_deprecated": false,
+                "visibility": "UNLISTED"
+              },
+              {
+                "slug": "neural-networks",
+                "title": "neural-networks",
+                "description": null,
+                "icon_url": null,
+                "is_deprecated": false,
+                "visibility": "UNLISTED"
               }
             ]
           },
@@ -2216,7 +2240,7 @@
           {
             "id": 1563,
             "slug": "que-es-la-inteligencia-artificial-generativa",
-            "title": "Qu\u00e9 es la Inteligencia Artificial Generativa",
+            "title": "Inteligencia Artificial en T\u00e9rminos Simples",
             "lang": "es",
             "asset_type": "LESSON",
             "status": "PUBLISHED",
@@ -7359,12 +7383,12 @@
                 "visibility": "PUBLIC"
               },
               {
-                "slug": "html-and-css",
-                "title": "HTML-and-CSS",
-                "description": null,
-                "icon_url": null,
+                "slug": "html-css",
+                "title": "HTML and CSS",
+                "description": "",
+                "icon_url": "https://storage.googleapis.com/breathecode/logos-technologias/HTML.png",
                 "is_deprecated": false,
-                "visibility": "UNLISTED"
+                "visibility": "PUBLIC"
               }
             ]
           },
@@ -8133,6 +8157,48 @@
       }
     ],
     "academy_id": "4"
+  },
+  {
+    "id": 145,
+    "slug": "curso-de-vibe-coding",
+    "title": "Curso de Vibe Coding",
+    "academy": {
+      "id": 47,
+      "name": "4Geeks.com"
+    },
+    "lang": "us",
+    "landing_page_url": "https://4geeks.com/es/bootcamp/vibe-coding-with-ai",
+    "total_articles": 0,
+    "keywords": [],
+    "academy_id": "47"
+  },
+  {
+    "id": 144,
+    "slug": "vibe-coding-course",
+    "title": "Vibe Coding Course",
+    "academy": {
+      "id": 47,
+      "name": "4Geeks.com"
+    },
+    "lang": "us",
+    "landing_page_url": "https://4geeks.com/en/bootcamp/vibe-coding-with-ai",
+    "total_articles": 0,
+    "keywords": [],
+    "academy_id": "47"
+  },
+  {
+    "id": 111,
+    "slug": "vibe-coding",
+    "title": "Vibe Coding",
+    "academy": {
+      "id": 47,
+      "name": "4Geeks.com"
+    },
+    "lang": "us",
+    "landing_page_url": "https://4geeks.com/technology/vibe-coding",
+    "total_articles": 0,
+    "keywords": [],
+    "academy_id": "47"
   },
   {
     "id": 110,

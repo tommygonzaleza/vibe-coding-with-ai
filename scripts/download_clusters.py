@@ -5,7 +5,7 @@ import json
 import requests
 from dotenv import load_dotenv
 
-def download_clusters():
+def main():
     # Load environment variables from .env file
     load_dotenv(override=True)
     
@@ -75,4 +75,4 @@ def download_clusters():
         print("No clusters were downloaded. Check your API credentials and academy IDs.")
 
 if __name__ == "__main__":
-    download_clusters() 
+    main() 

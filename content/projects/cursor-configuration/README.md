@@ -43,19 +43,49 @@ To make the most out of Cursor, consider the following strategic approaches:
 
 ## 📜 Example Custom Rules
 
-Here are some examples of custom rules you can implement to tailor Cursor's behavior. You can add these to the: Cursor => Settings => Rules => User Rules section:
+Here are some examples of custom rules you can implement to tailor Cursor's behavior. You can add these to the: **Cursor => Settings => Rules => User Rules** section. Consider organizing your rules by category for clarity:
 
+### Coding Standards & Style
+```markdown
+- If you are ever doing a front end, always dark mode it first.
+- If you are going to print a variable into the console in Python, add it as a second parameter like print("variable_name", variable_name).
+- When suggesting variable or function names, prefer camelCase.
+- For UI components (e.g., React, Vue, Svelte), prefer PascalCase for naming.
+```
+
+### Error Handling
+```markdown
+- For asynchronous operations (e.g., fetch requests, promises), remind me to include try/catch blocks or appropriate error handling mechanisms.
+- If working in a React project, suggest considering global error boundary components for better user experience.
+```
+
+### Performance Optimization
+```markdown
+- If working with React, suggest considering React.memo, useCallback, or useMemo for performance optimizations where appropriate.
+- When applicable, remind me to consider lazy loading for large components or routes to improve initial load time.
+```
+
+### Testing & Build Processes
+```markdown
+- Any kind of tests are always allowed like vitest, npm test, nr test, etc. Also basic build commands like build, tsc, etc. Creating files and making directories (like touch, mkdir, etc) is always ok too.
+- Run npm run build (or equivalent for the project), identify any errors, and help fix them until the build passes.
+- When suggesting tests for a new function or component, offer to use Jest and React Testing Library if it's a React project, or Pytest for Python projects.
+```
+
+### Documentation
+```markdown
+- When writing JavaScript or TypeScript, prompt to use JSDoc for documenting functions, classes, and complex types.
+- For Python code, encourage using Google-style docstrings.
+- Remind me to add or update README.md documentation for significant new features or modules.
+```
+
+### General Workflow & Other
 ```markdown
 - If you update a markdown file, don't include the markdown preview in the composer, show me the changes in the markdown file only.
-- If you are going to print a variable into the console, add it as a second parameter like print("variable_name", variable_name)
-- Dont run the development server yourself, tell me to check the live app and suggest the command as a reminder.
-- If you are ever doing a front end, always dark mode it first.
-- Any kind of tests are always allowed like vitest, npm test, nr test, etc. Also basic build commands like build, tsc, etc. Creating files and making directories (like touch, mkdir, etc) is always ok too.
-- Run npm run build, identify any errors, and fix them until the build passes.
+- Dont run the development server yourself; tell me to check the live app and suggest the command as a reminder.
 ```
 
 *(Note: The exact method for adding custom rules might evolve. Always refer to the latest Cursor documentation.)*
-
 
 ## 🛠️ Skills
 

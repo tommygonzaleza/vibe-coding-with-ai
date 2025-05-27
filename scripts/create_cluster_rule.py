@@ -46,6 +46,9 @@ When writing a new article, consider linking to these relevant landing pages:
             # Map language code to full name or use the code if not in mapping
             language = language_map.get(lang_code, lang_code) if lang_code else "Unknown"
             rule_content += f"- **{cluster['title']}** [{language}]: [{cluster['landing_page_url']}]({cluster['landing_page_url']})\n"
+            print(f"Added {cluster['slug']}")
+        else:
+            print(f"Skipping cluster: {cluster['slug']} because it has no landing page url")
     
     rule_content += """
 ## Guidelines
@@ -65,7 +68,7 @@ When writing content related to any of these topics, include contextually releva
 
     # Write the rule file
     try:
-        with open(".cursor/rules/seo.mdc", "w") as f:
+        with open(".cursor/rules/all-seo.mdc", "w") as f:
             f.write(rule_content)
         print("SEO rule created successfully at .cursor/rules/seo.mdc")
     except Exception as e:

@@ -7,30 +7,34 @@ This syllabus outlines the modules and lessons for the Vibe Coding with AI cours
 1.  **The Foundations of Vibe Coding with AI**
     *   [Introduction to Vibe Coding with AI](content/lessons/introduction-to-vibe-coding-with-ai.md)
     *   [Welcome to the AI-Driven Vibe Coding](content/lessons/welcome-to-the-ai-diven-vibe-coding.md)
-    *   [What is a Vibe Coder?](content/vibe-coding-vs-software-developers.md)
+    *   [What is a Vibe Coder?](content/lessons/vibe-coding-vs-software-developers.md)
     *   [Vibe Coding Manifesto](content/articles/vibe-coding-manifesto.md)
-    *   [Quiz about vibe coder risponsibilities](content/articles/vibe-coding-manifesto.md)
+    *   [Quiz about vibe coder responsibilities](content/assessments/about-vibe-coding.json)
 
 
-2.  **Vibe coding best practices**
+2.  **Vibe coding tools and best practices**
+    *   [Vibe Coding Best practices](content/lessons/vibe-coding-best-practices.md)
     *   [Vibe Coding Tools](content/lessons/vibe-coding-tools.md)
     *   [What is Cursor?](content/lessons/what-is-cursor.md)
     *   [What is Windsurf?](content/lessons/what-is-windsurf.md)
     *   [Windsurf vs Cursor](content/lessons/windsurf-vs-cursor-comparison.md)
-    *   [Writing rules for orchestrator files (Cursor Rules)](content/lessons/writing-rules-for-orchestrator-files.md)
     *   [Cursor Rules Examples](content/cursor-rules.md)
+    *   [Writing rules for orchestrator files (Cursor Rules)](content/lessons/writing-rules-for-orchestrator-files.md)
     *   [AI Memory Bank](content/lessons/ai-memory-bank.md)
     *   [Model Context Protocol (MCP)](content/lessons/model-context-protocol-mcp.md)
+    *   Project [Cursor Initial Configuration](content/projects/cursor-configuration/)
+    *   Project [Create rules for Vibe Culture](content/projects/your-first-context-rules/README.md)
 
 3.  **Developing Vibe Coding Skills with AI**
     *   [What to do while I wait for Vibe Coding access](content/lessons/what-todo-while-i-wait-for-vibecoding.md) / [Español](content/lessons/what-todo-while-i-wait-for-vibecoding.es.md)
+    *   Project [Your first coding implementation plan](content/projects/your-ai-first-coding-implementation-plan/)
 
 4.  **Launching Your Product from Day One with AI**
     *   [How much money can I make Vibe Coding with AI?](content/lessons/how-much-money-can-i-make-vibe-coding-with-ai.md)
 
 5.  **Iterating Publicly with AI**
-    *   [How to be successful on Twitter/X](content/lessons/how-to-be-successfull-on-twitter-x.md) / [Español](content/lessons/how-to-be-successful-on-twitter-x.es.md)
-    *   [How to be successful on LinkedIn](content/lessons/how-to-be-successfull-on-linked.md)
+    *   [How to be successful on Twitter/X](content/lessons/how-to-be-successful-on-twitter-x.md) / [Español](content/lessons/how-to-be-successful-on-twitter-x.es.md)
+    *   [How to be successful on LinkedIn](content/lessons/how-to-be-successful-on-linked.md)
 
 6.  **Maintaining Code with AI (Not Just Generating It)**
     *   _(No specific content file identified for this topic yet)_
