@@ -36,13 +36,13 @@ Alright, let's get into the nitty-gritty. These are the features that'll make yo
 
 This is the big one, folks! Composer in Agent Mode is Cursor's star player. Think of it as the AI taking control of your editor to do your bidding. Need a new file created? Want to update a bunch of old ones? Gotta run some terminal commands? Composer can handle it. Seriously, master this feature, and you'll be flying through your coding tasks. I use it *all the time*.
 
-![Screenshot showing the cursor composer in agent mode](../assets/cursor-agent-mode.png)
+![Screenshot showing the cursor composer in agent mode](https://github.com/alesanchezr/vibe-coding-with-ai/blob/main/assets/cursor-agent-mode.png?raw=true)
 
 ### 2. Auto-Completion That Reads Your Mind (Almost!) 🤯
 
 Cursor's autocomplete is seriously next-level. It's way more than just suggesting the next word. As you type, it figures out what you're trying to do and offers up smart suggestions to speed things along. And get this: it doesn't just look at your current line; it predicts what you'll type *next* based on your existing code. You'll see a little "tab" icon, and boom, it can fill in whole chunks of code for you. Magic! ✨
 
-![Sreenshot showing the cursos autocomplete tag icon](../assets/tab-cursor-autocomplete.png)
+![Sreenshot showing the cursos autocomplete tag icon](https://github.com/alesanchezr/vibe-coding-with-ai/blob/main/assets/tab-cursor-autocomplete.png?raw=true)
 
 *For example, typing something like `console.log(greet("World"));` becomes a breeze. Cursor just *knows*.*
 
@@ -52,7 +52,7 @@ We touched on this, but it's worth repeating: Cursor Rules are a game-changer. Y
 
 Want the AI to always format code a certain way? Or maybe use specific terminology? Set up a rule! You just pop your rules into a `.cursor/rules` folder (they're `.mdc` files), tell Cursor which file types they apply to, and you're golden.
 
-![Screenshot showing the cursor rules folder](../assets/cursor-rules.png)
+![Screenshot showing the cursor rules folder](https://github.com/alesanchezr/vibe-coding-with-ai/blob/main/assets/cursor-rules.png?raw=true)
 
 ### 4. Giving Cursor the 411: Context is King 👑
 
@@ -73,7 +73,7 @@ Before Agent Mode stole the show, *this* was Cursor's superpower. Cursor is fant
 
 Just like `.gitignore` tells Git which files to skip, you can use a `.cursorignore` file to tell Cursor to ignore specific files or folders. This is handy if you don't want the AI using certain files for context.
 
-![Screenshot showing the cursor ignore file](../assets/cursor-ignore.png)
+![Screenshot showing the cursor ignore file](https://github.com/alesanchezr/vibe-coding-with-ai/blob/main/assets/cursor-context.png?raw=true)
 
 ## Quick Tips to Get You Started 👍
 
