@@ -37,7 +37,7 @@ Por ejemplo, digamos que estás modificando una función que se usa en varios m�
 
 Mientras que Cascade es increíble para la edición de múltiples archivos, los **Flows** en Windsurf se centran en optimizar tus flujos de trabajo comunes. Imagina que estás corrigiendo un error o desarrollando una nueva característica. Los Flows pueden ayudar a automatizar o simplificar los pasos involucrados, haciendo que todo el proceso sea más fluido y rápido. Es como tener un asistente personalizado para tus tareas de desarrollo.
 
-[¿Quieres ver cómo la IA puede impulsar tu flujo de trabajo? ¡Pregúntale a Rigobot sobre la automatización del flujo de trabajo en el desarrollo!](mdc:https:/4geeks.com/ask?query=workflow-automation-in-software-development)
+[¿Quieres ver cómo la IA puede impulsar tu flujo de trabajo? ¡Pregúntale a Rigobot sobre la automatización del flujo de trabajo en el desarrollo!](https:/4geeks.com/ask?query=workflow-automation-in-software-development)
 
 ### Modo de Escritura Ultrarrápido: ¡El Código Aparece Como por Arte de Magia! ✨
 

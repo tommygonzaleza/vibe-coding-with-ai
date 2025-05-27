@@ -37,7 +37,7 @@ Lovable is another cool option. It produces really nice-looking front-ends and p
 
 ### Windsurf or Cursor: The Heavyweights for Big Projects 🥊
 
-Okay, when we're talking about serious, large-scale software engineering, for me, it boils down to two main contenders in the Vibe Coding tools space: Windsurf and Cursor. I've actually written a few other pieces comparing them, so I won't go too deep here. [Curious about the Windsurf vs Cursor showdown? Ask Rigobot for my take!](mdc:https:/4geeks.com/ask?query=Windsurf%20vs%20Cursor%20comparison%20for%20vibe%20coding)
+Okay, when we're talking about serious, large-scale software engineering, for me, it boils down to two main contenders in the Vibe Coding tools space: Windsurf and Cursor. I've actually written a few other pieces comparing them, so I won't go too deep here. [Curious about the Windsurf vs Cursor showdown? Ask Rigobot for my take!](https:/4geeks.com/ask?query=Windsurf%20vs%20Cursor%20comparison%20for%20vibe%20coding)
 
 But here's the gist from my perspective:
 

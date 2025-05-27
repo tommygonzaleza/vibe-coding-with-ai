@@ -80,7 +80,7 @@ These examples are pretty basic, but they're perfect for seeing how a few simple
 -   **Experiment and Tweak**: Try out different rules and see what happens! If the AI's output isn't *quite* right, just adjust your rule and try again. It's all about trial and error – no stress!
 -   **Have Fun With It!**: Seriously, rules are meant to make your coding life *easier* and more enjoyable, not harder. Play around, find what works for you, and build your perfect AI coding assistant.
 
-Wanna learn even more about how AI is changing development? [Ask Rigobot about the future of AI in software development!](mdc:https:/4geeks.com/ask?query=future-of-ai-in-software-development)
+Wanna learn even more about how AI is changing development? [Ask Rigobot about the future of AI in software development!](https:/4geeks.com/ask?query=future-of-ai-in-software-development)
 
 ## Let's Wrap This Up! 🎬
 

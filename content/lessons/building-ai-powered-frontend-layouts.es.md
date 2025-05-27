@@ -82,7 +82,7 @@ Aquí es donde brillan los frameworks. Tu trabajo es decirle a la IA *qué* comp
 Los buenos frameworks proporcionan una base accesible. Asegúrate de que la IA lo use correctamente y extiéndelo donde sea necesario.
 
 *   **Prompt:** "Asegúrate de que este componente `Dialog` de ShadCN/ui para la confirmación del usuario sea totalmente accesible. Verifica que la gestión del foco se maneje correctamente según los patrones de accesibilidad de Radix UI (que usa ShadCN). Todos los elementos interactivos dentro del diálogo deben ser navegables por teclado."
-*   **Por qué:** Frameworks como ShadCN/ui (a través de Radix) ponen un gran énfasis en a11y. Asegúrate de que la IA aproveche esto. Puedes aprender más en la [Iniciativa de Accesibilidad Web (WAI)](mdc:https:/www.w3.org/WAI/).
+*   **Por qué:** Frameworks como ShadCN/ui (a través de Radix) ponen un gran énfasis en a11y. Asegúrate de que la IA aproveche esto. Puedes aprender más en la [Iniciativa de Accesibilidad Web (WAI)](https:/www.w3.org/WAI/).
 
 ### 7. Proporciona Retroalimentación e Interactividad (Usando Estados del Framework) 👆
 
@@ -122,4 +122,4 @@ El primer intento del modelo de IA con los componentes del framework aún podrí
 
 Elegir un framework de componentes robusto es tu primer y mejor paso hacia un desarrollo front-end asistido por IA eficiente. Te da a ti y a tu socio de codificación de IA un lenguaje compartido y un potente conjunto de herramientas. Aplicando principios de prompting claros y conscientes del framework, puedes guiar a la IA para construir interfaces amigables que no solo sean hermosas y funcionales, sino también mantenibles y escalables.
 
-Como [Desarrollador Full Stack](mdc:https:/4geeksacademy.com/us/full-stack-developer/full-stack-developer), dominar cómo dirigir la IA en el contexto de los frameworks de UI modernos cambiará las reglas del juego. ¡Ve a elegir tu framework y comienza a construir cosas increíbles! 🚀 
+Como [Desarrollador Full Stack](https:/4geeksacademy.com/us/full-stack-developer/full-stack-developer), dominar cómo dirigir la IA en el contexto de los frameworks de UI modernos cambiará las reglas del juego. ¡Ve a elegir tu framework y comienza a construir cosas increíbles! 🚀 

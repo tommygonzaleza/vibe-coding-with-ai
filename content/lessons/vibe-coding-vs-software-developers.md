@@ -92,7 +92,7 @@ Here's how they can make amazing things happen together:
 | **5. Solving Problems**       | Cracks tough technical nuts, makes sure the system is solid and performs well. 🤓📈  | Solves user experience puzzles, makes sure people want and love the product. 🤔💖     |
 | **6. "Good" vs "Feels Good"** | Makes sure it's technically top-notch: reliable, fast, secure. 🏅⚙️          | Makes sure it's an awesome experience: easy to use, looks great, connects with users. ✨👌 |
 
-What do you think? Could you see yourself leaning more towards one role, or maybe a bit of both? [Ask Rigobot about careers in AI development!](mdc:https:/4geeks.com/ask?query=what%20are%20emerging%20career%20paths%20in%20AI-driven%20software%20development)
+What do you think? Could you see yourself leaning more towards one role, or maybe a bit of both? [Ask Rigobot about careers in AI development!](https:/4geeks.com/ask?query=what%20are%20emerging%20career%20paths%20in%20AI-driven%20software%20development)
 
 ## The Future's Bright: Devs Evolving Together 🌍🤝
 

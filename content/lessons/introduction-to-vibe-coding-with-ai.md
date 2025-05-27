@@ -39,7 +39,7 @@ For junior devs, this is like a non-stop dopamine hit. It's engaging, super rewa
 
 Critics like AI researcher Simon Willison have pointed out (and it's even on Wikipedia) that just letting AI do *everything* can lead to messy, hard-to-maintain code, and raises real questions about who's responsible when things go sideways. But hey, every challenge is a chance to get better, right? By learning to work *with* AI – iterating like a pro, double-checking its work, and getting your prompts just right – vibe coding becomes your superpower for serious software development.
 
-Want to know more about the tools? [Ask Rigobot about AI coding assistants like Cursor and GitHub Copilot!](mdc:https:/4geeks.com/ask?query=what-are-ai-coding-assistants-like-cursor-and-github-copilot)
+Want to know more about the tools? [Ask Rigobot about AI coding assistants like Cursor and GitHub Copilot!](https:/4geeks.com/ask?query=what-are-ai-coding-assistants-like-cursor-and-github-copilot)
 
 ## What You're Gonna Master in This Course 🥋
 

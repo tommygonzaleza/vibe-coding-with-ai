@@ -38,7 +38,7 @@ Para los desarrolladores junior, esto es como un chute de dopamina sin fin. Es a
 
 Críticos como el investigador de IA Simon Willison han señalado (e incluso está en Wikipedia) que dejar que la IA haga *todo* puede llevar a código desordenado y difícil de mantener, y plantea serias dudas sobre quién es responsable cuando las cosas se tuercen. Pero oye, cada desafío es una oportunidad para mejorar, ¿verdad? Aprendiendo a trabajar *con* la IA – iterando como un profesional, revisando su trabajo y afinando tus prompts – el vibe coding se convierte en tu superpoder para el desarrollo de software serio.
 
-¿Quieres saber más sobre las herramientas? [¡Pregúntale a Rigobot sobre asistentes de codificación IA como Cursor y GitHub Copilot!](mdc:https:/4geeks.com/ask?query=que-son-los-asistentes-de-codificacion-ia-como-cursor-y-github-copilot)
+¿Quieres saber más sobre las herramientas? [¡Pregúntale a Rigobot sobre asistentes de codificación IA como Cursor y GitHub Copilot!](https:/4geeks.com/ask?query=que-son-los-asistentes-de-codificacion-ia-como-cursor-y-github-copilot)
 
 ## Lo Que Vas a Dominar en Este Curso 🥋
 

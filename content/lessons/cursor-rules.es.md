@@ -80,7 +80,7 @@ Estos ejemplos son bastante básicos, pero son perfectos para ver cómo unas poc
 -   **Experimenta y Ajusta**: ¡Prueba diferentes reglas y mira qué pasa! Si la salida de la IA no es *del todo* correcta, simplemente ajusta tu regla e inténtalo de nuevo. Se trata de prueba y error, ¡sin estrés!
 -   **¡Diviértete con Ello!**: En serio, las reglas están pensadas para hacer tu vida de codificación *más fácil* y más agradable, no más difícil. Juega, encuentra lo que funciona para ti y construye tu asistente de codificación con IA perfecto.
 
-¿Quieres aprender aún más sobre cómo la IA está cambiando el desarrollo? [¡Pregúntale a Rigobot sobre el futuro de la IA en el desarrollo de software!](mdc:https:/4geeks.com/ask?query=future-of-ai-in-software-development)
+¿Quieres aprender aún más sobre cómo la IA está cambiando el desarrollo? [¡Pregúntale a Rigobot sobre el futuro de la IA en el desarrollo de software!](https:/4geeks.com/ask?query=future-of-ai-in-software-development)
 
 ## ¡Terminemos Esto! 🎬
 

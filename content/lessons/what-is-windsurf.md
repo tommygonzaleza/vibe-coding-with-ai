@@ -37,7 +37,7 @@ For instance, say you're tweaking a function that's used in several different mo
 
 While Cascade is awesome for multi-file editing, **Flows** in Windsurf are all about streamlining your common workflows. Imagine you're fixing a bug or building out a new feature. Flows can help automate or simplify the steps involved, making the whole process smoother and faster. It's like having a personalized assistant for your development tasks.
 
-[Want to see how AI can boost your workflow? Ask Rigobot about workflow automation in development!](mdc:https:/4geeks.com/ask?query=workflow-automation-in-software-development)
+[Want to see how AI can boost your workflow? Ask Rigobot about workflow automation in development!](https:/4geeks.com/ask?query=workflow-automation-in-software-development)
 
 ### Blazing-Fast Write Mode: Code Appears Like Magic! ✨
 

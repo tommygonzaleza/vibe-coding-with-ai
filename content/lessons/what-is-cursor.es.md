@@ -88,4 +88,4 @@ Cursor está cambiando genuinamente el juego de cómo codificamos, llevando el p
 
 Ya seas un veterano de la codificación o recién estés comenzando, la inteligencia artificial de Cursor puede darle un gran impulso a tu productividad mientras te mantienes en el asiento del conductor. La IA en el desarrollo de software se está moviendo rápido, y Cursor está justo ahí, a la vanguardia.
 
-Entonces, ¿a qué estás esperando? Pruébalo, juega con sus funciones y mira cómo puede revolucionar tu codificación. [¡Pregúntale a Rigobot sobre los beneficios de la IA en la codificación!](mdc:https:/4geeks.com/ask?query=benefits-of-ai-in-coding) ¡Feliz codificación y a por ello! 🚀 
+Entonces, ¿a qué estás esperando? Pruébalo, juega con sus funciones y mira cómo puede revolucionar tu codificación. [¡Pregúntale a Rigobot sobre los beneficios de la IA en la codificación!](https:/4geeks.com/ask?query=benefits-of-ai-in-coding) ¡Feliz codificación y a por ello! 🚀 
