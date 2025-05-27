@@ -1,0 +1,1 @@
+- Prioriza siempre las pruebas de usuario. 
