@@ -65,15 +65,13 @@ Before Agent Mode stole the show, *this* was Cursor's superpower. Cursor is fant
 *   `@codebase`: Let Cursor read your *entire* codebase to get the full picture.
 *   `@web`: Need some info from the internet? Tell Cursor to do a web search and use the results.
 
-![Screenshot showing the cursor context](../assets/cursor-context.png)
+![Screenshot showing the cursor context](https://github.com/alesanchezr/vibe-coding-with-ai/blob/main/assets/cursor-context.png?raw=true)
 
 ### 5. Telling Cursor What to Ignore (Sometimes Necessary!) 🤫
 
 > Heads up: This is probably only something you'll need if you're working with a massive codebase with thousands of files.
 
 Just like `.gitignore` tells Git which files to skip, you can use a `.cursorignore` file to tell Cursor to ignore specific files or folders. This is handy if you don't want the AI using certain files for context.
-
-![Screenshot showing the cursor ignore file](https://github.com/alesanchezr/vibe-coding-with-ai/blob/main/assets/cursor-context.png?raw=true)
 
 ## Quick Tips to Get You Started 👍
 
