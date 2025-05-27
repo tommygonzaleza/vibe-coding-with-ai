@@ -36,7 +36,7 @@ Muy bien, entremos en el meollo del asunto. Estas son las características que t
 
 ¡Este es el grande, amigos! El Compositor en Modo Agente es el jugador estrella de Cursor. Piénsalo como la IA tomando el control de tu editor para cumplir tus órdenes. ¿Necesitas crear un archivo nuevo? ¿Quieres actualizar un montón de los antiguos? ¿Tienes que ejecutar algunos comandos de terminal? El Compositor puede manejarlo. En serio, domina esta función y volarás a través de tus tareas de codificación. Lo uso *todo el tiempo*.
 
-![Captura de pantalla que muestra el compositor de cursor en modo agente](../assets/cursor-agent-mode.png)
+![Captura de pantalla que muestra el compositor de cursor en modo agente](https://github.com/alesanchezr/vibe-coding-with-ai/blob/main/assets/tab-cursor-autocomplete.png?raw=true)
 
 ### 2. Autocompletado que Lee tu Mente (¡Casi!) 🤯
 
@@ -52,7 +52,7 @@ Ya mencionamos esto, pero vale la pena repetirlo: las Reglas de Cursor cambian e
 
 ¿Quieres que la IA siempre formatee el código de cierta manera? ¿O tal vez usar terminología específica? ¡Establece una regla! Simplemente colocas tus reglas en una carpeta `.cursor/rules` (son archivos `.mdc`), le dices a Cursor a qué tipos de archivo se aplican, ¡y listo!
 
-![Captura de pantalla que muestra la carpeta de reglas del cursor](../assets/cursor-rules.png)
+![Captura de pantalla que muestra la carpeta de reglas del cursor](https://github.com/alesanchezr/vibe-coding-with-ai/blob/main/assets/cursor-rules.png?raw=true)
 
 ### 4. Dando a Cursor la Información: El Contexto es el Rey 👑
 
@@ -65,15 +65,13 @@ Antes de que el Modo Agente se robara el espectáculo, *este* era el superpoder 
 *   `@codebase`: Deja que Cursor lea *toda* tu base de código para obtener una imagen completa.
 *   `@web`: ¿Necesitas información de Internet? Dile a Cursor que haga una búsqueda web y use los resultados.
 
-![Captura de pantalla que muestra el contexto del cursor](../assets/cursor-context.png)
+![Captura de pantalla que muestra el contexto del cursor](https://github.com/alesanchezr/vibe-coding-with-ai/blob/main/assets/cursor-context.png?raw=true)
 
 ### 5. Diciéndole a Cursor Qué Ignorar (¡A Veces Necesario!) 🤫
 
 > Atención: Esto es probablemente algo que solo necesitarás si estás trabajando con una base de código masiva con miles de archivos.
 
 Al igual que `.gitignore` le dice a Git qué archivos omitir, puedes usar un archivo `.cursorignore` para decirle a Cursor que ignore archivos o carpetas específicas. Esto es útil si no quieres que la IA use ciertos archivos como contexto.
-
-![Captura de pantalla que muestra el archivo de ignorar del cursor](../assets/cursor-ignore.png)
 
 ## Consejos Rápidos para Empezar 👍
 
