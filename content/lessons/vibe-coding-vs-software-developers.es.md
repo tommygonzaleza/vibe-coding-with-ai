@@ -92,7 +92,7 @@ Así es como pueden hacer cosas increíbles juntos:
 | **5. Resolución de Problemas**| Resuelve problemas técnicos difíciles, se asegura de que el sistema sea sólido y funcione bien. 🤓📈  | Resuelve acertijos de experiencia de usuario, se asegura de que la gente quiera y ame el producto. 🤔💖     |
 | **6. "Bueno" vs "Se Siente Bien"** | Se asegura de que sea técnicamente de primera categoría: confiable, rápido, seguro. 🏅⚙️          | Se asegura de que sea una experiencia increíble: fácil de usar, se ve genial, conecta con los usuarios. ✨👌 |
 
-¿Qué piensas? ¿Te ves inclinándote más hacia un rol, o tal vez un poco de ambos? [¡Pregúntale a Rigobot sobre carreras en desarrollo de IA!](https:/4geeks.com/ask?query=what%20are%20emerging%20career%20paths%20in%20AI-driven%20software%20development)
+¿Qué piensas? ¿Te ves inclinándote más hacia un rol, o tal vez un poco de ambos? [¡Pregúntale a Rigobot sobre carreras en desarrollo de IA!](https://4geeks.com/ask?query=what%20are%20emerging%20career%20paths%20in%20AI-driven%20software%20development)
 
 ## El Futuro es Brillante: Desarrolladores Evolucionando Juntos 🌍🤝
 

@@ -37,7 +37,7 @@ Lovable es otra opción genial. Produce front-ends muy atractivos y funciona bie
 
 ### Windsurf o Cursor: Los Pesos Pesados para Grandes Proyectos 🥊
 
-Bien, cuando hablamos de ingeniería de software seria y a gran escala, para mí, todo se reduce a dos contendientes principales en el espacio de herramientas de Vibe Coding: Windsurf y Cursor. De hecho, he escrito algunas otras piezas comparándolos, así que no profundizaré demasiado aquí. [¿Curioso sobre el enfrentamiento Windsurf vs Cursor? ¡Pregúntale a Rigobot mi opinión!](https:/4geeks.com/ask?query=Windsurf%20vs%20Cursor%20comparison%20for%20vibe%20coding)
+Bien, cuando hablamos de ingeniería de software seria y a gran escala, para mí, todo se reduce a dos contendientes principales en el espacio de herramientas de Vibe Coding: Windsurf y Cursor. De hecho, he escrito algunas otras piezas comparándolos, así que no profundizaré demasiado aquí. [¿Curioso sobre el enfrentamiento Windsurf vs Cursor? ¡Pregúntale a Rigobot mi opinión!](https://4geeks.com/ask?query=Windsurf%20vs%20Cursor%20comparison%20for%20vibe%20coding)
 
 Pero aquí está la esencia desde mi perspectiva:
 

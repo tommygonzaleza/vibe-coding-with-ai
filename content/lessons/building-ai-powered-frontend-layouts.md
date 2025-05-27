@@ -122,4 +122,4 @@ The AI model's first pass with framework components might still need tweaks.
 
 Choosing a robust component framework is your first and best step towards efficient AI-assisted front-end development. It gives you and your AI coding partner a shared language and a powerful toolkit. By then applying clear, framework-aware prompting principles, you can guide the AI to build user-friendly interfaces that are not only beautiful and functional but also maintainable and scalable.
 
-As a [Full Stack Developer](https:/4geeksacademy.com/us/full-stack-developer/full-stack-developer), mastering how to direct AI within the context of modern UI frameworks will be a game-changer. Go pick your framework, and start building amazing things! 🚀 
+As a [Full Stack Developer](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer), mastering how to direct AI within the context of modern UI frameworks will be a game-changer. Go pick your framework, and start building amazing things! 🚀 

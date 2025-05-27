@@ -122,4 +122,4 @@ El primer intento del modelo de IA con los componentes del framework aún podrí
 
 Elegir un framework de componentes robusto es tu primer y mejor paso hacia un desarrollo front-end asistido por IA eficiente. Te da a ti y a tu socio de codificación de IA un lenguaje compartido y un potente conjunto de herramientas. Aplicando principios de prompting claros y conscientes del framework, puedes guiar a la IA para construir interfaces amigables que no solo sean hermosas y funcionales, sino también mantenibles y escalables.
 
-Como [Desarrollador Full Stack](https:/4geeksacademy.com/us/full-stack-developer/full-stack-developer), dominar cómo dirigir la IA en el contexto de los frameworks de UI modernos cambiará las reglas del juego. ¡Ve a elegir tu framework y comienza a construir cosas increíbles! 🚀 
+Como [Desarrollador Full Stack](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer), dominar cómo dirigir la IA en el contexto de los frameworks de UI modernos cambiará las reglas del juego. ¡Ve a elegir tu framework y comienza a construir cosas increíbles! 🚀 
