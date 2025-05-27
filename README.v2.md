@@ -18,10 +18,10 @@ This syllabus outlines the modules and lessons for the Vibe Coding with AI cours
     * ✅ [What is Cursor?](content/lessons/what-is-cursor.md)
     * ✅ [What is Windsurf?](content/lessons/what-is-windsurf.md)
     * ⬆️ [Windsurf vs Cursor](content/lessons/windsurf-vs-cursor-comparison.md)
-    * ✅ [Cursor Rules Examples](content/cursor-rules.md)
+    * ⬆️ [Cursor Rules Examples](content/cursor-rules.md)
     * ✅ [Writing rules for orchestrator files (Cursor Rules)](content/lessons/writing-rules-for-orchestrator-files.md)
     * ✅ [AI Memory Bank](content/lessons/ai-memory-bank.md)
-    * ✅ [Model Context Protocol (MCP)](content/lessons/model-context-protocol-mcp.md)
+    * ⬆️ [Model Context Protocol (MCP)](content/lessons/model-context-protocol-mcp.md)
     *   Project [Cursor Initial Configuration](content/projects/cursor-configuration/)
     *   Project [Create rules for Vibe Culture](content/projects/your-first-context-rules/README.md)
 
