@@ -1,10 +1,10 @@
 ---
 title: Welcome to the Vibe Coding with AI Course
 tags:
-  - artificial intelligence
+  - vibe coding
+  - artificial-inteligence
   - ai-driven-development
   - AI
-  - vibe coding
 description: >-
   Discover the revolutionary Vibe Coding with AI approach that's changing how we build software! Learn from an industry veteran with 25+ years of experience how to leverage AI to code faster, better, and with more creativity.
 cluster: Full Stack Developer
@@ -31,11 +31,12 @@ It's a complete reimagining of what it means to be a developer. Just as the tran
 
 I get that some people are proud of the hard work it took them to learn everthing they know, let them be proud.
 
-In the mean time, let's get good at this game!
+In the mean time, let's get good at this game! 🚀
 
-1. The window of competitive advantage is open but won't stay open forever
-2. Current educational resources often miss the holistic approach needed to truly "vibe" with AI
-3. Many developers are struggling with imposter syndrome as they see AI generating code they once prided themselves on writing manually
+> 🤔 Consider this:
+> 1. The window of competitive advantage is open but won't stay open forever ⏳
+> 2. Current educational resources often miss the holistic approach needed to truly "vibe" with AI.
+> 3. Many developers are struggling with imposter syndrome as they see AI generating code they once prided themselves on writing manually.
 
 ### The "Vibe Coding" Difference
 
@@ -66,13 +67,13 @@ Perhaps most importantly, I've been experimenting with AI-assisted coding approa
 This course is designed as a comprehensive journey through Vibe Coding with AI. Here's a glimpse of what we'll cover:
 
 ### Technical Foundations to Vibe Code with AI
-- **Foundations of HTTP, Client-Server, and Request-Response**: Core concepts every developer needs
-- **Debugging Techniques**: Solve problems effectively, even in AI-generated code
+- **Foundations of HTTP, Client-Server, and Request-Response**: Core concepts every developer needs. [Ask Rigobot about HTTP and Client-Server models!](https://4geeks.com/ask?query=explain%20HTTP%20and%20Client-Server%20model)
+- **Debugging Techniques**: Solve problems effectively, even in AI-generated code. [Ask Rigobot for common debugging techniques!](https://4geeks.com/ask?query=common%20debugging%20techniques%20for%20programmers)
 - **Game Development Fundamentals with Vibe Coding**: Apply these techniques to creative projects
 - **Design Patterns and Best Practices**: Structure your code for maintainability
 
 ### The Fundamentals
-- **The Foundations of Vibe Coding with AI**: Understand the core philosophy and principles
+- **The Foundations of Vibe Coding with AI**: Understand the core philosophy and principles. [Ask Rigobot what Vibe Coding means!](https://4geeks.com/ask?query=what%20is%20Vibe%20Coding%20with%20AI)
 - **Vibe Coding Best Practices**: Learn the rules and techniques that maximize effectiveness
 - **Developing Vibe Coding Skills with AI**: Practice exercises that build your AI collaboration muscles
 - **Personal Branding & Public Building**: Master the art of marketing yourself and building in public to gain visibility and opportunities
@@ -113,4 +114,4 @@ Ready to transform how you code? The next lesson will dive into the foundations 
 
 Remember, learning to code with AI isn't about replacing your skills—it's about amplifying them. You're not becoming less of a developer; you're becoming a different kind of developer—one equipped for the future of our industry.
 
-I'm excited to guide you through this journey. Let's start vibing!
+I'm excited to guide you through this journey. Let's start vibing! 🎉
